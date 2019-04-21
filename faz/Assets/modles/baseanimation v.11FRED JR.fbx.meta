@@ -1,0 +1,413 @@
+fileFormatVersion: 2
+guid: a837a1a250325ba41a337b4b51a491d6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 1 l
+    100002: 1 r
+    100004: 2 l
+    100006: 2 l_end
+    100008: 2 r
+    100010: 2 r_end
+    100012: //RootNode
+    100014: body
+    100016: BOE
+    100018: Bone
+    100020: Bone.001
+    100022: Bone.001_end
+    100024: breast.L
+    100026: breast.L_end
+    100028: breast.R
+    100030: breast.R_end
+    100032: EYELID.L.001
+    100034: EYELID.L.001_end
+    100036: EYELID.L.002
+    100038: EYELID.L.002_end
+    100040: EYELID.R.001
+    100042: EYELID.R.001_end
+    100044: EYELID.R.002
+    100046: EYELID.R.002_end
+    100048: face
+    100050: forearm.L
+    100052: forearm.R
+    100054: Hand l
+    100056: Hand r
+    100058: hat
+    100060: heel.02.L
+    100062: heel.02.L_end
+    100064: heel.02.R
+    100066: heel.02.R_end
+    100068: Hemi
+    100070: Hemi.001
+    100072: iktarget.L.002
+    100074: iktarget.L.002_end
+    100076: iktarget.R.002
+    100078: iktarget.R.002_end
+    100080: index 1.L
+    100082: index 1.R
+    100084: index 2 . L
+    100086: index 2 . L_end
+    100088: index 2 . R
+    100090: index 2 . R_end
+    100092: l eye
+    100094: l eye.001
+    100096: l eye.002
+    100098: left eye
+    100100: 'left eye controller '
+    100102: left eye controller _end
+    100104: left eye_end
+    100106: 'main contoller '
+    100108: metarig
+    100110: metarig.001
+    100112: mid 1 . L
+    100114: mid 1 . R
+    100116: mid 2 . L
+    100118: mid 2 . L_end
+    100120: mid 2 . R
+    100122: mid 2 . R_end
+    100124: mouth
+    100126: mouth_end
+    100128: pelvis.L
+    100130: pelvis.L_end
+    100132: pelvis.R
+    100134: pelvis.R_end
+    100136: pinky  1 . L
+    100138: pinky  1 . R
+    100140: pinky 2 . L
+    100142: pinky 2 . L_end
+    100144: pinky 2 . R
+    100146: pinky 2 . R_end
+    100148: Plane.001
+    100150: Plane.003
+    100152: Plane.004
+    100154: Plane.005
+    100156: Plane.006
+    100158: Plane.011
+    100160: poltarget.L.002
+    100162: poltarget.L.002_end
+    100164: poltarget.R.002
+    100166: poltarget.R.002_end
+    100168: r eye
+    100170: right eye
+    100172: 'right eye controller '
+    100174: right eye controller _end
+    100176: right eye_end
+    100178: shoulder.L
+    100180: shoulder.R
+    100182: spine
+    100184: spine.001
+    100186: spine.002
+    100188: spine.003
+    100190: spine.004
+    100192: spine.005
+    100194: spine.006
+    100196: tail
+    100198: thigh.L
+    100200: thigh.L.001
+    100202: thigh.R
+    100204: thigh.R.001
+    100206: toe.L
+    100208: toe.L.001
+    100210: toe.L.001_end
+    100212: toe.R
+    100214: toe.R.001
+    100216: toe.R.001_end
+    100218: upper_arm.L
+    100220: upper_arm.L.001
+    100222: upper_arm.L.001_end
+    100224: upper_arm.R
+    100226: upper_arm.R.001
+    100228: upper_arm.R.001_end
+    400000: 1 l
+    400002: 1 r
+    400004: 2 l
+    400006: 2 l_end
+    400008: 2 r
+    400010: 2 r_end
+    400012: //RootNode
+    400014: body
+    400016: BOE
+    400018: Bone
+    400020: Bone.001
+    400022: Bone.001_end
+    400024: breast.L
+    400026: breast.L_end
+    400028: breast.R
+    400030: breast.R_end
+    400032: EYELID.L.001
+    400034: EYELID.L.001_end
+    400036: EYELID.L.002
+    400038: EYELID.L.002_end
+    400040: EYELID.R.001
+    400042: EYELID.R.001_end
+    400044: EYELID.R.002
+    400046: EYELID.R.002_end
+    400048: face
+    400050: forearm.L
+    400052: forearm.R
+    400054: Hand l
+    400056: Hand r
+    400058: hat
+    400060: heel.02.L
+    400062: heel.02.L_end
+    400064: heel.02.R
+    400066: heel.02.R_end
+    400068: Hemi
+    400070: Hemi.001
+    400072: iktarget.L.002
+    400074: iktarget.L.002_end
+    400076: iktarget.R.002
+    400078: iktarget.R.002_end
+    400080: index 1.L
+    400082: index 1.R
+    400084: index 2 . L
+    400086: index 2 . L_end
+    400088: index 2 . R
+    400090: index 2 . R_end
+    400092: l eye
+    400094: l eye.001
+    400096: l eye.002
+    400098: left eye
+    400100: 'left eye controller '
+    400102: left eye controller _end
+    400104: left eye_end
+    400106: 'main contoller '
+    400108: metarig
+    400110: metarig.001
+    400112: mid 1 . L
+    400114: mid 1 . R
+    400116: mid 2 . L
+    400118: mid 2 . L_end
+    400120: mid 2 . R
+    400122: mid 2 . R_end
+    400124: mouth
+    400126: mouth_end
+    400128: pelvis.L
+    400130: pelvis.L_end
+    400132: pelvis.R
+    400134: pelvis.R_end
+    400136: pinky  1 . L
+    400138: pinky  1 . R
+    400140: pinky 2 . L
+    400142: pinky 2 . L_end
+    400144: pinky 2 . R
+    400146: pinky 2 . R_end
+    400148: Plane.001
+    400150: Plane.003
+    400152: Plane.004
+    400154: Plane.005
+    400156: Plane.006
+    400158: Plane.011
+    400160: poltarget.L.002
+    400162: poltarget.L.002_end
+    400164: poltarget.R.002
+    400166: poltarget.R.002_end
+    400168: r eye
+    400170: right eye
+    400172: 'right eye controller '
+    400174: right eye controller _end
+    400176: right eye_end
+    400178: shoulder.L
+    400180: shoulder.R
+    400182: spine
+    400184: spine.001
+    400186: spine.002
+    400188: spine.003
+    400190: spine.004
+    400192: spine.005
+    400194: spine.006
+    400196: tail
+    400198: thigh.L
+    400200: thigh.L.001
+    400202: thigh.R
+    400204: thigh.R.001
+    400206: toe.L
+    400208: toe.L.001
+    400210: toe.L.001_end
+    400212: toe.R
+    400214: toe.R.001
+    400216: toe.R.001_end
+    400218: upper_arm.L
+    400220: upper_arm.L.001
+    400222: upper_arm.L.001_end
+    400224: upper_arm.R
+    400226: upper_arm.R.001
+    400228: upper_arm.R.001_end
+    2100000: Material.002
+    2100002: eyes
+    2100004: Material
+    2100006: checker
+    2100008: jr's hat
+    2100010: Material.001
+    2300000: BOE
+    2300002: l eye
+    2300004: l eye.001
+    2300006: l eye.002
+    2300008: Plane.001
+    2300010: Plane.003
+    2300012: Plane.004
+    2300014: Plane.005
+    2300016: Plane.006
+    2300018: Plane.011
+    2300020: r eye
+    3300000: BOE
+    3300002: l eye
+    3300004: l eye.001
+    3300006: l eye.002
+    3300008: Plane.001
+    3300010: Plane.003
+    3300012: Plane.004
+    3300014: Plane.005
+    3300016: Plane.006
+    3300018: Plane.011
+    3300020: r eye
+    4300000: BOE
+    4300002: r eye
+    4300004: l eye
+    4300006: l eye.001
+    4300008: l eye.002
+    4300010: body
+    4300012: Plane.011
+    4300014: Plane.001
+    4300016: hat
+    4300018: tail
+    4300020: Plane.006
+    4300022: Plane.005
+    4300024: Plane.004
+    4300026: Plane.003
+    7400000: Hemi.001|bodyAction
+    7400002: Hemi.001|BOEAction
+    7400004: Hemi.001|hatAction
+    7400006: Hemi.001|HemiAction
+    7400008: Hemi.001|HemiAction.001
+    7400010: Hemi.001|l eye.001Action
+    7400012: Hemi.001|l eye.001Action.001
+    7400014: Hemi|bodyAction
+    7400016: Hemi|BOEAction
+    7400018: Hemi|hatAction
+    7400020: Hemi|HemiAction
+    7400022: Hemi|HemiAction.001
+    7400024: Hemi|l eye.001Action
+    7400026: Hemi|l eye.001Action.001
+    7400028: metarig|bodyAction
+    7400030: metarig|BOEAction
+    7400032: metarig|hatAction
+    7400034: metarig|HemiAction
+    7400036: metarig|HemiAction.001
+    7400038: metarig|l eye.001Action
+    7400040: metarig|l eye.001Action.001
+    7400042: metarig|metarigAction
+    7400044: BOE|bodyAction
+    7400046: BOE|BOEAction
+    7400048: BOE|hatAction
+    7400050: BOE|HemiAction
+    7400052: BOE|HemiAction.001
+    7400054: BOE|l eye.001Action
+    7400056: BOE|l eye.001Action.001
+    7400058: l eye.001|bodyAction
+    7400060: l eye.001|BOEAction
+    7400062: l eye.001|hatAction
+    7400064: l eye.001|HemiAction
+    7400066: l eye.001|HemiAction.001
+    7400068: l eye.001|l eye.001Action
+    7400070: l eye.001|l eye.001Action.001
+    7400072: l eye.002|bodyAction
+    7400074: l eye.002|BOEAction
+    7400076: l eye.002|hatAction
+    7400078: l eye.002|HemiAction
+    7400080: l eye.002|HemiAction.001
+    7400082: l eye.002|l eye.001Action
+    7400084: l eye.002|l eye.001Action.001
+    9500000: //RootNode
+    10800000: Hemi
+    10800002: Hemi.001
+    13700000: body
+    13700002: hat
+    13700004: tail
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
