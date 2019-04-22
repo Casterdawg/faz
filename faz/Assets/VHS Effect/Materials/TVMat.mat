@@ -24,20 +24,20 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SecondaryTex:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: c171d861cb5bf75408826b8f346946bb, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _Intensity: 0.713
+    - _Intensity: 0.995
     - _OffsetColor: 0.0108
-    - _OffsetDistortion: 1210
-    - _OffsetNoiseX: 0.0940708
-    - _OffsetNoiseY: -0.03879496
-    - _OffsetPosY: 0.021371756
-    - _ScanLines: 1
+    - _OffsetDistortion: 2000
+    - _OffsetNoiseX: 0.35875344
+    - _OffsetNoiseY: -0.014733013
+    - _OffsetPosY: 0.026602268
+    - _ScanLines: 10
     - hardPix: -2.54
     - hardScan: 0
-    - maskDark: 0.64
+    - maskDark: 0.69
     - maskLight: 0.67
     - resScale: 0.09
     m_Colors:
