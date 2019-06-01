@@ -79,7 +79,7 @@ Material:
     - _OffsetDistortion: 1210
     - _OffsetNoiseX: 0.22160394
     - _OffsetNoiseY: -132.30008
-    - _OffsetPosY: 0.0050926656
+    - _OffsetPosY: 0.064
     - _Parallax: 0.02
     - _ScanLines: 10
     - _SmoothnessTextureChannel: 0
