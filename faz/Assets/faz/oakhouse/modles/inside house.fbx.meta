@@ -65,6 +65,7 @@ ModelImporter:
     100118: Sphere.007
     100120: Sphere.008
     100122: Sphere.009
+    100124: bunny door.001
     400000: Cube.000
     400002: Cube.001
     400004: Cube.002
@@ -127,6 +128,7 @@ ModelImporter:
     400118: Sphere.007
     400120: Sphere.008
     400122: Sphere.009
+    400124: bunny door.001
     2100000: Material.001
     2100002: pillars
     2100004: Material
@@ -222,6 +224,7 @@ ModelImporter:
     2300116: Sphere.007
     2300118: Sphere.008
     2300120: Sphere.009
+    2300122: bunny door.001
     3300000: Cube.000
     3300002: Cube.001
     3300004: Cube.002
@@ -283,6 +286,7 @@ ModelImporter:
     3300116: Sphere.007
     3300118: Sphere.008
     3300120: Sphere.009
+    3300122: bunny door.001
     4300000: Cube.014
     4300002: HOUSE.011
     4300004: HOUSE.010
@@ -344,6 +348,7 @@ ModelImporter:
     4300116: Sphere.008
     4300118: Sphere.007
     4300120: Sphere.006
+    4300122: bunny door.001
     2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
