@@ -62,6 +62,7 @@ ModelImporter:
     100112: upper_arm_L
     100114: upper_arm_R
     100116: //RootNode
+    100118: Mr_fred_001
     400000: Bone
     400002: breast_L
     400004: breast_L_001
@@ -121,6 +122,7 @@ ModelImporter:
     400112: upper_arm_L
     400114: upper_arm_R
     400116: //RootNode
+    400118: Mr_fred_001
     2100000: MR_FRED_BODY
     2100002: Mr_Fred_hat
     2100004: MR_FRED_EYE
@@ -129,6 +131,7 @@ ModelImporter:
     4300004: Cube_001
     4300006: Cube_003
     4300008: Cube_000
+    4300010: Mr_fred_001
     7400000: Default Take
     9500000: //RootNode
     13700000: Cube_000
@@ -136,6 +139,7 @@ ModelImporter:
     13700004: Cube_003
     13700006: Cylinder
     13700008: Mr_fred
+    13700010: Mr_fred_001
   externalObjects: {}
   materials:
     importMaterials: 1

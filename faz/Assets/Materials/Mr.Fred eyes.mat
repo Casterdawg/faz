@@ -20,7 +20,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: 2b026658b5129cc419e02681c4d9f59a, type: 3}
+        m_Texture: {fileID: 2800000, guid: 0669be808611d0347bcf52667e7d006b, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Cube:
@@ -40,7 +40,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
-        m_Texture: {fileID: 2800000, guid: 16dedf7dde7ca9840b741c5fb7305a34, type: 3}
+        m_Texture: {fileID: 2800000, guid: d78118920eb8248468dca0cb87fb19b4, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Fresnel:
@@ -48,7 +48,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 16dedf7dde7ca9840b741c5fb7305a34, type: 3}
+        m_Texture: {fileID: 2800000, guid: d78118920eb8248468dca0cb87fb19b4, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -101,7 +101,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _BumpAmt: 50.1
-    - _BumpScale: 1
+    - _BumpScale: 0.5
     - _Cutoff: 0.5
     - _DepthMaxDistance: 1
     - _DetailNormalMapScale: 1
